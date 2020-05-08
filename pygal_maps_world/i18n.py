@@ -168,7 +168,7 @@ COUNTRIES = {
     'tm': 'Turkmenistan',
     'tn': 'Tunisia',
     'tr': 'Turkey',
-    'tw': 'Taiwan, Province of China',
+    'tw': 'Taiwan (Republic of China)',
     'tz': 'Tanzania, United Republic of',
     'ua': 'Ukraine',
     'ug': 'Uganda',
